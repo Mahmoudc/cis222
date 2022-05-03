@@ -1,0 +1,33 @@
+
+img.img-fluid {
+	height:30px;
+	width:30px;
+}
+.carousel-item img {
+	width:1000px;
+	height:75%;
+
+}
+
+
+
+h1 {
+	text-align:center;
+}
+.card-text {
+	width:400px;
+}
+.card-image {
+	width:500px;
+	height:500px;
+}
+.card-block {
+	height:740px;
+	width:200px;
+}
+.card-block_service {
+	height:180px;
+}
+.card {
+	width:500px;
+}
